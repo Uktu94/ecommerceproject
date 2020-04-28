@@ -13,7 +13,7 @@ const StripeCheckoutButton = ({ price }) => {
     return (
         <StripeCheckout 
           label='Pay Now'
-          name='ECommer Project by Utku Karaaslan'
+          name='ECommerce Project by Utku Karaaslan'
           billingAddress
           shippingAddress
           image='https://sendeyo.com/up/d/f3eb2117da'
